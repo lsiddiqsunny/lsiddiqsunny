@@ -3,6 +3,17 @@
 
 I am **Latif Siddiq Sunny** from **Bangladesh**. Currently, I am an undergraduate student at **Bangladesh University of Engineering and Technology(BUET)**. My major topic is **Computer Science and Engineering**.
 
+### States
+Overall states:
+
+![Latif's github stats](https://github-readme-stats.vercel.app/api?username=lsiddiqsunny&show_icons=true&theme=radical&count_private=true)
+
+Top languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsiddiqsunny&layout=compact&hide=Jupyter%20Notebook,tex)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Project
 
 I have done several projects untill now.
