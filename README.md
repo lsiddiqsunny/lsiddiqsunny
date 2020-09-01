@@ -1,7 +1,7 @@
+<h1 align="center">Hello 👋, I'm Latif Siddiq Sunny</h1>
+<h3 align="center">A software engineer and ML enthusiastic from Bangladesh </h3>
 
-### About me
-
-I am **Latif Siddiq Sunny** from **Bangladesh**. Currently, I am an undergraduate student at **Bangladesh University of Engineering and Technology(BUET)**. My major topic is **Computer Science and Engineering**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsiddiqsunny" alt="lsiddiqsunny" /> </p>
 
 ### States
 Overall states:
