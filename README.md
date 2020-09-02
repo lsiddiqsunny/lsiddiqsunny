@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Latif Siddiq Sunny</h1>
-<h3 align="center">A software engineer and ML enthusiastic from Bangladesh </h3>
+<h3 align="center">A software engineering and ML enthusiastic from Bangladesh </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsiddiqsunny" alt="lsiddiqsunny" /> </p>
 
