@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Django, Node.js**
 
-- 👯 I’m looking to collaborate on **Shashtho Sheba**
-
-- 👨‍💻 All of my projects are available at [https://lsiddiqsunny.azurewebsites.net/](https://lsiddiqsunny.azurewebsites.net/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://lsiddiqsunny.azurewebsites.net/)
 
 - 💬 Ask me about **C, C++, Python, Java, Flutter**
 
 - 📫 How to reach me **lsiddiqsunny@gmail.com**
 
-- 📄 Know about my experiences [https://lsiddiqsunny.azurewebsites.net/Mohammed%20Latif%20Siddiq.pdf](https://lsiddiqsunny.azurewebsites.net/Mohammed%20Latif%20Siddiq.pdf)
+- 📄 Know about my experiences [Resume](https://lsiddiqsunny.azurewebsites.net/Mohammed%20Latif%20Siddiq.pdf)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
