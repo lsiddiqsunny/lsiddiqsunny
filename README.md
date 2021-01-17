@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsiddiqsunny&label=Profile%20views&color=0e75b6&style=flat" alt="lsiddiqsunny" /> </p>
 
-<p>I am a Software Engineer in the Banking Solutions Department at LEADS Corporation Limited where I am designing frontend with Vue.js, using Dot Net Core as backend and follwoing Micro-seervice architecture.</p>
+<p>I am a Software Engineer in the Banking Solutions Department at LEADS Corporation Limited where I am designing frontend with Vue.js, using Dot Net Core as backend and following Micro-seervice architecture.</p>
 
 <p>My research focuses on Software Engineering, Code refactoring, Applied Machine Learning, Networking and Security.</p>
 
