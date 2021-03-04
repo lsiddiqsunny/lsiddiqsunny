@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Latif Siddiq Sunny</h1>
 <h3 align="center">A software engineering and ML enthusiastic from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsiddiqsunny&label=Profile%20views&color=0e75b6&style=flat" alt="lsiddiqsunny" /> </p>
-
-<p>I am a Software Engineer in the Banking Solutions Department at LEADS Corporation Limited where I am designing frontend with Vue.js, using Dot Net Core as backend and following Micro-seervice architecture.</p>
+<p>I am a Software Engineer in the E-governance Department at REVE Systems where I am working with JAVA JSP, MySQL Database.</p>
 
 <p>My research focuses on Software Engineering, Code refactoring, Applied Machine Learning, Networking and Security.</p>
 
@@ -19,5 +17,3 @@
   <li><a href="https://lsiddiqsunny.azurewebsites.net/o/">Portfolio Site</a></li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsiddiqsunny&layout=compact&hide=Jupyter%20Notebook,tex" alt="lsiddiqsunny" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsiddiqsunny&show_icons=true" alt="lsiddiqsunny" /></p>
