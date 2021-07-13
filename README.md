@@ -10,9 +10,5 @@
 <p>I was working with Anindya Iqbal, Associate Professor, CSE, BUET in Software Engineering field. <br>Currently I am working with <a href="https://giasuddin.ca">Dr. Gias Uddin, Assistant Professor, Data Intensive Software Systems, University of Calgary</a> on a code level security analyzing project. Beside that I am working on a machine learning based project with <a href="https://karmake2.github.io">Shubhra Kanti Karmaker, Assistant Professor, Auburn University, Alabama</a>.</p><br><p>Want to meet? <a href="https://calendly.com/lsiddiqsunny/30min">Setup a 30 minute meeting on zoom</a>.</p>
 
   
-<p>More about me:</p>
-<ul>
-  <li><a href="https://lsiddiqsunny.github.io/">Research Site</a></li>
-  <li><a href="https://lsiddiqsunny.azurewebsites.net/o/">Portfolio Site</a></li>
-</ul>
+<p>More about me: <a href="https://lsiddiqsunny.github.io/">Personal Site</a></p>
 
