@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Latif Siddiq Sunny</h1>
 <h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3>
 
- <p>I am a Software Engineer in the E-governance Department at REVE System, where I am
+<p> I am an incoming PhD student at the University of Notre Dame, IN, USA. I will work there as a graduate assistant(TA/RA) to have my PhD in Computer Science and Engineering.</p>
+ <p>Previously, I worked as a Junior Software Engineer in the E-governance Department at REVE Systems, where I was
  working with JAVA EE, JAVA JSP, and MySQL database.</p>
 
  <p>My research focuses on Software Engineering, Software Security, and Applied Machine Learning.</p>
