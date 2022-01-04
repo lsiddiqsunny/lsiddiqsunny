@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Latif Siddiq Sunny</h1>
 <h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3>
 
-<p>I will join as Graduate Assistant at University of Notre Dame, Indiana, USA, to have a Ph.D. in the Spring 2022 Session. I will work under <a href="https://joannacss.github.io/">Joanna Cecilia da Silva Santos, Assistant Professor, University of Notre Dame, Indiana</a>, in a broad area of Software Security.</p> 
+<p>I am working as Graduate Assistant at University of Notre Dame, Indiana, USA, to have a Ph.D. in the Spring 2022 Session. I am working under <a href="https://joannacss.github.io/">Joanna Cecilia da Silva Santos, Assistant Professor, University of Notre Dame, Indiana</a>, in a broad area of Software Security.</p> 
 
  <p>My research focuses on Software Engineering, Software Security, and Applied Machine Learning.</p>
 
  <p>I received my Bachelor of Science degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology in March 2021. Before graduation, I sometimes worked at LEADS Corporation LTD in the FinTech System. Then, after graduation, I joined the REVE System to work in enterprise software for Bangladesh Parliament.</p>
- 
- 
 
  <p>I worked with Anindya Iqbal, Associate Professor, CSE, BUET, in the Software Engineering field as my undergrad thesis credit.</p>
  
