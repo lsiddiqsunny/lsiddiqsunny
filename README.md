@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Latif Siddiq Sunny</h1>
-<h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Latif Siddiq</h1>
+<!-- <h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3> -->
+<h3 align="center">I am expecting to graduate in Fall 2025 and looking for full-time scientist/engineering positions starting from the end of this year.
+ My preference: Research/Data Scientist, Research/Data/Software Engineer.
+Check my <a href="https://lsiddiqsunny.github.io/public/Mohammed_Latif_Siddiq.pdf">CV</a> for more details.</h3>
 
-<p>I am a Graduate Assistant at University of Notre Dame, Indiana, USA, to have a Ph.D. from the Spring 2022 Session. I am working under <a href="https://joannacss.github.io/">Joanna Cecilia da Silva Santos, Assistant Professor, University of Notre Dame, Indiana</a>, in a broad area of Software Security.</p> 
 
- <p>My research focuses on Software Engineering, Software Security, and Code generation models.</p>
+<p> I am a Ph.D. candidate at the University of Notre Dame, Indiana, USA, working under the supervision of <a href="https://joannacss.github.io/">Dr. Joanna Cecilia da Silva Santos, Assistant Professor</a>, in the broad area of Software Security. Currently, I am a graduate research assistant at the <a href="https://s2e-lab.github.io/">s<sup>2</sup>e-lab</a>. </p> 
 
- <p>I received my MS  in Computer Science and Engineering from University of Notre Dame in August 2024 by completing my PhD thesis proposal, and now, I am a PhD candidate.</p>
+<p> I am an incoming Ph.D. intern at Meta (formerly Facebook) for the summer of 2025. I will be working with the WhatsApp Core Consumer Messaging Groups & Communities, more specifically with LLM applications in WhatsApp Group Chat. </p>
 
- <p>I received my Bachelor of Science in Computer Science and Engineering from Bangladesh University of Engineering and Technology in March 2021. Before graduation, I sometimes worked at LEADS Corporation LTD in the FinTech System. Then, after graduation, I joined the REVE System to work in developing enterprise software for Bangladesh Parliament.</p>
+<p> My research focuses on Software Engineering, Software Security, Code Generation, and Applied Machine Learning. You can view my publications on my <a href="https://scholar.google.com/citations?user=oGZL0uIAAAAJ">Google Scholar profile</a>. </p> <p> I completed my Master’s in Computer Science and Engineering from the University of Notre Dame, Indiana, USA, in August 2024, following my Ph.D. proposal defense. </p> <p> I earned my Bachelor of Science in Computer Science and Engineering from the Bangladesh University of Engineering and Technology (BUET) in March 2021. Before graduation, I worked at LEADS Corporation Ltd. in the FinTech sector. Afterward, I joined REVE Systems, where I contributed to enterprise software solutions for the Bangladesh Parliament. </p> <p> During my undergraduate studies, I collaborated with <a href="https://cse.buet.ac.bd/faculty/dr-anindya-iqbal">Dr. Anindya Iqbal</a>, Professor at BUET, on research in the Software Engineering field as part of my thesis. </p>
 
- <p>I worked with Dr. Anindya Iqbal, Associate Professor, CSE, BUET, in the Software Engineering field as my undergrad thesis credit.</p>
 
  <p>Want to meet? <a href="https://calendar.app.google/6YevqynW9ASqkBxH6">Setup a 30 minute meeting on Google Meet</a>.</p>
 
