@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Latif Siddiq</h1>
 <!-- <h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3> -->
-<h3 align="center">I expect to graduate in Fall 2025 and look for full-time scientist/engineering positions starting from the end of this year.
+<h3 align="center">I expect to graduate in Spring 2026 and look for full-time scientist/engineering positions starting from the next year.
  My preference: Research/Data Scientist, Research/Data/Software Engineer.
 Check my <a href="https://lsiddiqsunny.github.io/public/Mohammed_Latif_Siddiq.pdf">CV</a> for more details.</h3>
 
